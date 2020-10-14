@@ -1,5 +1,9 @@
 # Atom as a LaTeX-Editor [#AAALE]
 
+
+ ### Base software:
+ - [Atom.io](https://atom.io): An open source code editor.
+ 
  ### Package for structuring LaTeX code: 
  - [Atom beautify](https://atom.io/packages/atom-beautify): Better structured LaTeX code.
  - The general [Autocomplete](https://atom.io/packages/autocomplete-paths) package and LaTeX-specific packages: 
